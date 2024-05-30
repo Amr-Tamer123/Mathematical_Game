@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Project\Project_Mathematical_Game\Project_Mathematical_Game\Source.cpp(91,1): warning C4715: 'SimpleColcalator': not all control paths return a value
+  Project_Mathematical_Game.vcxproj -> D:\Project\Project_Mathematical_Game\x64\Debug\Project_Mathematical_Game.exe

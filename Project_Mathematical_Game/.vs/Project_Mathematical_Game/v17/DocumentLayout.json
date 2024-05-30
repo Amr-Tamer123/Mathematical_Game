@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Project_Mathematical_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8581A92A-2D70-498F-BC09-A04361E4214F}|Project_Mathematical_Game\\Project_Mathematical_Game.vcxproj|D:\\Project\\Project_Mathematical_Game\\Project_Mathematical_Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8581A92A-2D70-498F-BC09-A04361E4214F}|Project_Mathematical_Game\\Project_Mathematical_Game.vcxproj|solutionrelative:Project_Mathematical_Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Project\\Project_Mathematical_Game\\Project_Mathematical_Game\\Source.cpp",
+              "RelativeDocumentMoniker": "Project_Mathematical_Game\\Source.cpp",
+              "ToolTip": "D:\\Project\\Project_Mathematical_Game\\Project_Mathematical_Game\\Source.cpp",
+              "RelativeToolTip": "Project_Mathematical_Game\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T22:54:57.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
